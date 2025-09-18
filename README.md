@@ -13,6 +13,6 @@ An intermediate-level e-commerce web application built to provide a seamless sho
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript (React/Bootstrap/Tailwind if applicable)
+Frontend: HTML, CSS, JavaScript 
 
 <img width="1827" height="912" alt="image" src="https://github.com/user-attachments/assets/6826d7b3-8387-4202-8781-9776819747e3" />
