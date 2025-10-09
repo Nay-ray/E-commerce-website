@@ -12,7 +12,7 @@ An intermediate-level e-commerce web application built to provide a seamless sho
 
 📦 Order Management.
 
-🛠️Tech Stack
+🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript 
 
