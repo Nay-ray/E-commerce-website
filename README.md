@@ -8,7 +8,7 @@ An intermediate-level e-commerce web application built to provide a seamless sho
 
 🛍️ Shopping Cart – Add, update, and remove products easily.
 
-🔍 Search & Filter – Quickly find the products you need.
+🔍 Search  – Quickly find the products you need.
 
 📦 Order Management.
 
