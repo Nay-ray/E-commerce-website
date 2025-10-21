@@ -1,6 +1,6 @@
 # E-commerce-website
 
-An intermediate-level e-commerce web application built to provide a seamless shopping experience with product listings, recommendations, and a shopping cart.
+An  e-commerce web application built to provide a seamless shopping experience with product listings, recommendations, and a shopping cart.
 
 🚀 Features
 
