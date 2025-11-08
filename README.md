@@ -2,6 +2,7 @@
 
 An  e-commerce web application built to provide a seamless shopping experience with product listings, recommendations, and a shopping cart.
 
+
  🚀 Features
 
 🏷️ Product Listings – Browse through a variety of products with details.
