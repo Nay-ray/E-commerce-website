@@ -1,5 +1,4 @@
 # E-commerce-website
-
 An  e-commerce web application built to provide a seamless shopping experience with product listings, recommendations, and a shopping cart.
 
 
