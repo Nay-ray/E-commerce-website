@@ -15,5 +15,4 @@ An  e-commerce web application built to provide a seamless shopping experience w
 
  🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript 
-
 <img width="1827" height="912" alt="image" src="https://github.com/user-attachments/assets/6826d7b3-8387-4202-8781-9776819747e3" />
