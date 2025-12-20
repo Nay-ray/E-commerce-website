@@ -4,7 +4,6 @@ An  e-commerce web application built to provide a seamless shopping experience w
 
  🚀 Features
 🏷️ Product Listings – Browse through a variety of products with details.
-
 🛍️ Shopping Cart – Add, update, and remove products easily.
 
 🔍 Search – Quickly find the products you need.
